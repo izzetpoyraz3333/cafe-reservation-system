@@ -19,7 +19,7 @@ A full-stack web application built for cafes and restaurants, allowing customers
 
 To run this project on your local machine:
 
-1. Clone the repo: `git clone https://github.com/izzetpoyraz3333/cab-reservation-system.git`
+1. Clone the repo: `git clone https://github.com/izzetpoyraz3333/cafe-reservation-system.git`
 2. Navigate to the folder: `cd repo-name`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm run dev`
